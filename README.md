@@ -46,10 +46,6 @@ To test the extension:
 
 **Note:** Extensions may not work in private browsing by default. If testing in private mode, open "about:addons," click on the extension, and select the "Allow" option for "Run in Private Windows."
 
-## Packaging and Publishing
-
-If you wish to share Night Shift Google Drive with others, follow Mozilla's guidelines for packaging and publishing extensions. See [Publishing your extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension).
-
 ## Contribution
 
 If you encounter any issues or have suggestions for improvement, feel free to contribute by reporting issues or submitting pull requests on [GitHub](https://github.com/Hthrace/night-shift-google-drive).
