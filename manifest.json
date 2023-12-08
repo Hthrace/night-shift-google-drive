@@ -1,0 +1,20 @@
+{
+
+    "description": "Changes Google Drive to darkmode. See https://github.com/Hthrace/google-drive-darkmode-extension",
+    "manifest_version": 2,
+    "name": "Night Shift Google Drive",
+    "version": "1.0",
+    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/borderify",
+    "icons": {
+      "48": "icons/border-48.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://drive.google.com/*"],
+        "js": ["darkmode.js"]
+      }
+    ]
+  
+  }
+  
