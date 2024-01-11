@@ -5,6 +5,7 @@ const foldersMain = document.querySelector(".PolqHc ");
 const newBtnBlock = document.querySelector(".ZHllM ");
 const newBtn = document.querySelector(".brbsPe ");
 const genColor = document.querySelector(".vhoiae");
+const folderHeader = document.querySelector(".s55KNe");
 
 const backgroundArry = [
   navBar,
@@ -28,6 +29,10 @@ setTimeout(() => {
     "#1a1a1b";
 }, 1500);
 
+//Changes folder header color
+folderHeader.style.setProperty("--dt-surface-container", "#1a1a1b");
+genColor.style.setProperty("--dt-surface-container", "#1a1a1b");
+
 //Changes font color for navBar, folder, filter bar, and right click menu.
 genColor.style.setProperty("--dt-on-surface", "#d7dadc");
 
@@ -36,6 +41,3 @@ genColor.style.setProperty("--dt-surface2", "#1a1a1b");
 
 //Changes right click menu background color
 genColor.style.setProperty("--dt-background", "#1a1a1b");
-
-
-
