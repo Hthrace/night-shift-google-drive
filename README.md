@@ -1,4 +1,4 @@
-# Night Shift Google Drive
+# Night Shift Google Drive - v1.1.1
 
 Night Shift Google Drive is a Firefox extension designed to bring a dark mode experience to Google Drive. This extension transforms the default Google Drive interface into a darker, more visually comfortable environment. With a single JavaScript file named `darkmode.js`, Night Shift Google Drive is a lightweight and easy-to-use extension.
 
