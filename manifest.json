@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Night Shift Google Drive",
     "description": "Changes Google Drive to darkmode. See https://github.com/Hthrace/night-shift-google-drive",
-    "version": "1.1",
+    "version": "1.1.1",
     "homepage_url": "https://github.com/Hthrace/night-shift-google-drive",
     "icons": {
       "44": "icons/darkmode-44.png"
